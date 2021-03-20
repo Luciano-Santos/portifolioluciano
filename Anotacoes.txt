@@ -1,0 +1,12 @@
+Instalar no VSCode as extensões:
+Live Server
+Auto Close Tag
+GitLens
+Highlight Matching Tag
+VS Color Picker
+
+Comandos GIT
+$ git add .
+$ git commit -m "Estrutura inicial dos arquivos"
+$ git push
+
